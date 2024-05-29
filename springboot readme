@@ -12,3 +12,9 @@ Here are some key features and benefits of Spring Boot:
 
 5. Spring Initializr: A web-based tool and REST API for generating Spring Boot project templates. You can select the dependencies you need, and it generates a ready-to-use project structure.
 
+3. Production-ready features: Spring Boot includes a range of features that are useful for production environments, such as health checks, metrics, and externalized configuration.
+
+4. Starter POMs: Spring Boot provides a set of "starter" POMs (Project Object Models) that simplify the dependency management process. These starters bring in a curated set of dependencies for specific functionality, making it easier to manage your project's dependencies.
+
+5. Spring Initializr: A web-based tool and REST API for generating Spring Boot project templates. You can select the dependencies you need, and it generates a ready-to-use project structure.
+
