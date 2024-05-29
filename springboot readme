@@ -12,10 +12,3 @@ Here are some key features and benefits of Spring Boot:
 
 5. Spring Initializr: A web-based tool and REST API for generating Spring Boot project templates. You can select the dependencies you need, and it generates a ready-to-use project structure.
 
-6. Opinionated Defaults: Spring Boot takes an opinionated view of the Spring platform and third-party libraries so that you can get started with minimum fuss. Most of the decisions you would need to make are already made for you.
-
-7. Microservices Support: Spring Boot is well-suited for building microservices due to its lightweight and modular nature. It integrates well with other Spring Cloud projects to create scalable and resilient microservices architectures.
-
-8. Command Line Interface (CLI): Spring Boot includes a CLI tool that can be used to run Groovy scripts, which makes it easier to prototype and develop applications quickly.
-
-Spring Boot is widely used in the industry for its ability to reduce boilerplate code, simplify application configuration, and provide a robust foundation for building scalable and maintainable applications.
